@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Dn/nsEAL+bw=",
+  "dgSpecHash": "7owEYJ4FgI8=",
   "success": true,
-  "projectFilePath": "C:\\Users\\ALMIR\\OneDrive\\Documentos\\FullStack Senai\\Desenvolvimento de APIs - QO_FULLST_DDF_232T10 -QUA.459.006\\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\\Exo.WebApi\\Exo.WebApi.csproj",
+  "projectFilePath": "c:\\Users\\ALMIR\\OneDrive\\Documentos\\FullStack Senai\\Desenvolvimento de APIs - QO_FULLST_DDF_232T10 -QUA.459.006\\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\\Exo.WebApi\\Exo.WebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ALMIR\\.nuget\\packages\\humanizer.core\\2.2.0\\humanizer.core.2.2.0.nupkg.sha512",
     "C:\\Users\\ALMIR\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",

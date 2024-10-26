@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ALMIR\\OneDrive\\Documentos\\FullStack Senai\\Desenvolvimento de APIs - QO_FULLST_DDF_232T10 -QUA.459.006\\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\\Exo.WebApi\\Exo.WebApi.csproj": {}
+    "c:\\Users\\ALMIR\\OneDrive\\Documentos\\FullStack Senai\\Desenvolvimento de APIs - QO_FULLST_DDF_232T10 -QUA.459.006\\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\\Exo.WebApi\\Exo.WebApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ALMIR\\OneDrive\\Documentos\\FullStack Senai\\Desenvolvimento de APIs - QO_FULLST_DDF_232T10 -QUA.459.006\\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\\Exo.WebApi\\Exo.WebApi.csproj": {
+    "c:\\Users\\ALMIR\\OneDrive\\Documentos\\FullStack Senai\\Desenvolvimento de APIs - QO_FULLST_DDF_232T10 -QUA.459.006\\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\\Exo.WebApi\\Exo.WebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ALMIR\\OneDrive\\Documentos\\FullStack Senai\\Desenvolvimento de APIs - QO_FULLST_DDF_232T10 -QUA.459.006\\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\\Exo.WebApi\\Exo.WebApi.csproj",
+        "projectUniqueName": "c:\\Users\\ALMIR\\OneDrive\\Documentos\\FullStack Senai\\Desenvolvimento de APIs - QO_FULLST_DDF_232T10 -QUA.459.006\\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\\Exo.WebApi\\Exo.WebApi.csproj",
         "projectName": "Exo.WebApi",
-        "projectPath": "C:\\Users\\ALMIR\\OneDrive\\Documentos\\FullStack Senai\\Desenvolvimento de APIs - QO_FULLST_DDF_232T10 -QUA.459.006\\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\\Exo.WebApi\\Exo.WebApi.csproj",
+        "projectPath": "c:\\Users\\ALMIR\\OneDrive\\Documentos\\FullStack Senai\\Desenvolvimento de APIs - QO_FULLST_DDF_232T10 -QUA.459.006\\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\\Exo.WebApi\\Exo.WebApi.csproj",
         "packagesPath": "C:\\Users\\ALMIR\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ALMIR\\OneDrive\\Documentos\\FullStack Senai\\Desenvolvimento de APIs - QO_FULLST_DDF_232T10 -QUA.459.006\\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\\Exo.WebApi\\obj\\",
+        "outputPath": "c:\\Users\\ALMIR\\OneDrive\\Documentos\\FullStack Senai\\Desenvolvimento de APIs - QO_FULLST_DDF_232T10 -QUA.459.006\\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\\Exo.WebApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ALMIR\\AppData\\Roaming\\NuGet\\NuGet.Config"

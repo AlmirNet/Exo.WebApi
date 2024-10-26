@@ -2,6 +2,7 @@ using Exo.WebApi.Contexts;
 using Exo.WebApi.Models;
 using System.Collections.Generic;
 using System.Linq;
+
 namespace Exo.WebApi.Repositories
 {
     public class UsuarioRepository
@@ -13,8 +14,7 @@ namespace Exo.WebApi.Repositories
         }
         public Usuario Login(string email, string senha)
         {
-            return _context.Usuarios.FirstOrDefault(u => u.Email ==
-            email && u.Senha == senha);
+            return _context.Usuarios.FirstOrDefault(u => u.Email == email && u.Senha == senha);
         }
         public List<Usuario> Listar()
         {
